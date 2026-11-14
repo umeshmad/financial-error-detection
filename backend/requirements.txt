@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+pymysql
+cryptography
+pandas
+numpy
+scikit-learn
+pymupdf
+joblib
